@@ -1,0 +1,6 @@
+{
+    "name":"vidy-prod application",
+    "email":{
+        "host":"prod-host server"
+    }
+}
